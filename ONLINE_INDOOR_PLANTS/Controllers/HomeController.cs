@@ -18,12 +18,36 @@ namespace ONLINE_INDOOR_PLANTS.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Home()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Plants()
+        {
+            return View();
+        }
+        public IActionResult Fertilizer()
+        {
+            return View();
+        }
+        public IActionResult Seeds()
+        {
+            return View();
+        }
+        public IActionResult Sortby()
+        {
+            return View();
+        }
+        public IActionResult Accessories()
+        {
+            return View();
+        }
+        public IActionResult Cart()
+        {
+            return View();
+        }
+        public IActionResult Signin()
         {
             return View();
         }
