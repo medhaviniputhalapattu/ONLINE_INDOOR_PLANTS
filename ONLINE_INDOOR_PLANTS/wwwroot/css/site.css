@@ -1,6 +1,7 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;
@@ -62,10 +63,98 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+
+
+/* FOOTER*/
+.footer-area {
+    padding-top: 40px;
+    background-color: #222222;
 }
+
+h6 {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+a {
+    padding-right: 25px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.footer-social i {
+    color: blue;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+@media (max-width: 991px) {
+    .footer-social {
+        text-align: left;
+    }
+}
+
+.single-footer-widget input {
+    border: none;
+    width: 80%;
+    font-weight: 300;
+    background: #191919;
+    color: white;
+    padding-left: 20px;
+    border-radius: 0;
+    font-size: 14px;
+}
+
+.single-footer-widget p {
+    color: grey;
+}
+
+.single-footer-widget .bb-btn {
+    color: #fff;
+    font-weight: 300;
+    border-radius: 0;
+    z-index: 9999;
+    cursor: pointer;
+}
+
+.single-footer-widget .info {
+    position: absolute;
+    margin-top: 20%;
+    color: #fff;
+    font-size: 12px;
+}
+
+.single-footer-widget .click-btn {
+    color: #fff;
+    border-radius: 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 8px 12px;
+    border: 0;
+}
+
+@media (max-width: 991px) {
+    .single-footer-widget {
+        margin-bottom: 30px;
+    }
+}
+
+.footer-text {
+    padding-top: 80px;
+}
+
+    .footer-text a,
+    .footer-text i {
+        color: white;
+    }
+
+.whole-wrap {
+    background-color: #fff;
+}
+
