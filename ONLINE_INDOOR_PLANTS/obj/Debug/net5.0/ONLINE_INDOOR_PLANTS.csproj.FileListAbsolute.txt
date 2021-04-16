@@ -120,3 +120,6 @@ C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Accessories.cshtml.g.cs
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Signin.cshtml.g.cs
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\IndoorPlants.cshtml.g.cs
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\OutDoorPlants.cshtml.g.cs
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\MoneyPlants.cshtml.g.cs
