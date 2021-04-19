@@ -5,6 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\image\1.jpg" />
+    <None Include="wwwroot\image\2.jpg" />
+    <None Include="wwwroot\image\3.jpg" />
+    <None Include="wwwroot\image\5.jpg" />
+    <None Include="wwwroot\image\6.jpg" />
+    <None Include="wwwroot\image\7.jpg" />
+    <None Include="wwwroot\image\8.jpg" />
+    <None Include="wwwroot\image\logo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
