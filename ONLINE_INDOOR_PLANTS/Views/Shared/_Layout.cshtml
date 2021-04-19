@@ -144,7 +144,17 @@
                             <a class=" nav-link text-dark " asp-area="" asp-controller="Home" asp-action="Home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Plants">Plants</a>
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Plants
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" asp-controller="Home" asp-action="IndoorPlants">IndoorPlants</a>
+                                    <a class="dropdown-item" asp-controller="Home" asp-action="OutdoorPlants">OutdoorPlants</a>
+                                    <a class="dropdown-item" asp-controller="Home" asp-action="MoneyPlants">MoneyPlants</a>
+                                  
+                                </div>
+                            
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Fertilizer">Fertilizer</a>
@@ -174,6 +184,13 @@
             @RenderBody()
         </main>
     </div>
+<<<<<<< HEAD
+
+    <footer class="border-top footer text-muted">
+        <div class="mycontainer container">
+            &copy; 2021 - ONLINE_INDOOR_PLANTS - <a asp-area="" asp-controller="Home" asp-action="Home">Infinity Flowers</a><br>
+            Designed&Developed by : Medhavini,Maneesha,Rutuja and Koushik
+=======
     <!-- Start Footer Section-->
     <footer class="footer-area section-gap">
         <div class="container">
@@ -230,6 +247,7 @@
                     </div>
                 </div>
             </div>
+>>>>>>> 3f4b74e3b549f801f9bcafd90fa13d8ebef62fac
         </div>
     </footer>
     <!-- End Footer Section-->

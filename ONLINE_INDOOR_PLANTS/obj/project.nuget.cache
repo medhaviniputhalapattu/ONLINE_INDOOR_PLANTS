@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "0sC350wo82enc9UyNohZuUKvdoDk4u3bDtIuCvbD9xfU8j5NNsnUUy33uWhzkD4c3xxAQZiJHClqQiDMm+RTpg==",
+=======
   "dgSpecHash": "9YTz/vdO0G1uGmqkzEEofmUKoxNh1M2eQPb0uvQQVF2L8YssB31nWqANWCPjwHd4w0pFTpH8w0/gYEZpis14IQ==",
+>>>>>>> 3f4b74e3b549f801f9bcafd90fa13d8ebef62fac
   "success": true,
   "projectFilePath": "E:\\online indoor plant\\ONLINE_INDOOR_PLANTS\\ONLINE_INDOOR_PLANTS\\ONLINE_INDOOR_PLANTS.csproj",
   "expectedPackageFiles": [

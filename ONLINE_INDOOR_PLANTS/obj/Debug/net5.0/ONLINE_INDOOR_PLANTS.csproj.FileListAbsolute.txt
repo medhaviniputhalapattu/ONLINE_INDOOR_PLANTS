@@ -120,6 +120,11 @@ C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Accessories.cshtml.g.cs
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
 C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\Signin.cshtml.g.cs
+<<<<<<< HEAD
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\IndoorPlants.cshtml.g.cs
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\OutDoorPlants.cshtml.g.cs
+C:\Users\Intel\source\repos\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\Razor\Views\Home\MoneyPlants.cshtml.g.cs
+=======
 C:\Users\91985\Desktop\project\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ONLINE_INDOOR_PLANTS.dll
 C:\Users\91985\Desktop\project\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ref\ONLINE_INDOOR_PLANTS.dll
 C:\Users\91985\Desktop\project\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ONLINE_INDOOR_PLANTS.pdb
@@ -245,3 +250,4 @@ E:\online indoor plant\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.
 E:\online indoor plant\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ref\ONLINE_INDOOR_PLANTS.dll
 E:\online indoor plant\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ONLINE_INDOOR_PLANTS.pdb
 E:\online indoor plant\ONLINE_INDOOR_PLANTS\ONLINE_INDOOR_PLANTS\obj\Debug\net5.0\ONLINE_INDOOR_PLANTS.genruntimeconfig.cache
+>>>>>>> 3f4b74e3b549f801f9bcafd90fa13d8ebef62fac
